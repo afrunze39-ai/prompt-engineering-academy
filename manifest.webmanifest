@@ -1,0 +1,19 @@
+{
+  "name": "Prompt Engineering Academy",
+  "short_name": "Prompt Academy",
+  "description": "Офлайн-тренажёр по prompt engineering с инженерным треком.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
